@@ -1,3 +1,5 @@
+Just enter your name and click on add and see how you will look in future
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
